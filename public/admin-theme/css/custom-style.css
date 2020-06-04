@@ -1,0 +1,13 @@
+.filter-bg {
+    margin: -1.25rem -1.25rem 11px;
+    background: #4b71dd;
+    padding: 17px 1.25rem 2px;
+}
+button.btn.dropdown-toggle.btn-light.bs-placeholder {
+    background: #fff;
+    border: 1px solid #d1d3e2;
+}
+button.btn.dropdown-toggle.btn-light {
+    background: #fff;
+    border: 1px solid #d1d3e2;
+}
